@@ -4,7 +4,7 @@ Regulator.kicad_pcb – KiCad PCB layout
 <br>
 
 ## Sponsored by PCBWay
-This project is proudly sponsored by [PCBWay](https://www.pcbway.com), who supported the prototyping of this board.  
+This project sponsored by [PCBWay](https://www.pcbway.com), who supported the prototyping of this board.  
 Special thanks to Liam from PCBWay’s marketing team for facilitating the collaboration.
 
 
