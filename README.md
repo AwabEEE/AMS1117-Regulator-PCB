@@ -22,7 +22,17 @@ Special thanks to Liam from PCBWay’s marketing team for facilitating the colla
 
 ### photos of the bare PCBs
 ![Schematic](photo_pcb.jpg)
+### PCBWay Sponsorship & Quality Review
 
+These boards were kindly sponsored by PCBWay
+
+🟢 Quality: The PCBs arrived with sharp silkscreen, smooth edges, and consistent solder mask — even for the fine-pitch pads.
+
+🟢 Service: Communication with the PCBWay team (special thanks to Liam 🙏) was very fast and helpful at every step.
+
+🟢 Delivery: The shipping was reliable and the boards were safely packed.
+
+I haven’t soldered components yet (waiting for my kit to arrive), but I’m already impressed with the build quality. Once assembly and testing are complete, I’ll share performance measurements and final photos.
 **⚙️ Typical Specs (AMS1117-3.3 based) :**
 
 Output: 3.3 V fixed
