@@ -20,6 +20,8 @@ Special thanks to Liam from PCBWay’s marketing team for facilitating the colla
 ![3D View 1](Screenshot%202025-08-17%20014316.png)  
 ![3D View 2](Screenshot%202025-08-17%20014355.png)
 
+### photos of the bare PCBs
+![Schematic](photo_pcb.jpg)
 
 **⚙️ Typical Specs (AMS1117-3.3 based) :**
 
